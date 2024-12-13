@@ -5,5 +5,3 @@
 - 🏫 I'm currently working at [École polytechnique fédérale de Lausanne](https://www.epfl.ch/fr/) (EPFL)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertomercurio&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertomercurio)](https://github.com/anuraghazra/github-readme-stats)
